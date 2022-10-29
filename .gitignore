@@ -127,8 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 /data/
 /dist/
 /сентябрь 2022/
 /main.spec
 /.idea/
+=======
+>>>>>>> 42ac081 (Initial commit)
